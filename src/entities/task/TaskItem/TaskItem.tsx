@@ -1,6 +1,8 @@
 function TaskItem() {
 	return (
-		<div>TaskItem</div>
+		<h1 className="font-bold">
+			Hello world
+		</h1>
 	)
 }
 
