@@ -1,4 +1,4 @@
-import { TodosView } from "../../../widgets"
+import { TodosView } from "@/widgets/todosView"
 
 function TodosPage() {
 	return (
